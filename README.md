@@ -22,11 +22,6 @@ This tool scans your Supabase database to find:
 
 ## 🚀 Try It Live
 
-**Use the deployed scanner instantly:**
-👉 **[https://cautious-fortnight-one.vercel.app](https://cautious-fortnight-one.vercel.app)**
-
-No installation required! Just sign in with Google and connect your Supabase account.
-
 ## 🛠️ Local Development (For Contributors)
 
 If you want to run the scanner locally or contribute to the project:
